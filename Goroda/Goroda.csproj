@@ -116,7 +116,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="external-content.duckduckgo.png" />
+    <Resource Include="mainIcon.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="favicon.ico" />
